@@ -22,10 +22,9 @@ or <a href="mailto:juanda554242@gmail.com"><b>email</b></a> me.
 <div align="center">
 
 <a href="https://github.com/jdvpl"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jdvpl&theme=highcontrast"/></a>
-
-  
-[![jdpl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdvpl)](https://github.com/jdvpl/github-readme-stats)
-  
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdvpl&layout=compact)](https://github.com/jdvpl/github-readme-stats)  
 </br>
 </br>
 <i>Random dev joke for you! </i><br>
