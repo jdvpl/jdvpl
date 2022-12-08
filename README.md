@@ -27,6 +27,19 @@ or <a href="mailto:juanda554242@gmail.com"><b>email</b></a> me.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdvpl&layout=compact)](https://github.com/jdvpl/github-readme-stats)  
 </br>
 </br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jdvpl&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jdvpl&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jdvpl&show_icons=true" />
+</picture>
+
 <i>Random dev joke for you! </i><br>
 <a href="https://portafolio-jdvpl.web.app/"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
