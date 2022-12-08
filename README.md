@@ -21,7 +21,7 @@ or <a href="mailto:juanda554242@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdvpl&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.api?username=jdvpl&theme=radical)
 
 </br>
 </br>
